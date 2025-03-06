@@ -1,2 +1,8 @@
 Console.WriteLine("Momina Arif");
 Console.WriteLine("24-ST-024");
+
+// Code for multiplication:
+int num1 = 3;
+int num2 = 4;
+int product = num1 * num2;
+Console.WriteLine(" The Product of " +num1+ " and " +num2+ " is:" + product);
