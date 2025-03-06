@@ -1,2 +1,8 @@
 Console.WriteLine("Momina Arif");
 Console.WriteLine("24-ST-024");
+
+//code for subtraction:
+ int num1 = 50;
+int num2 = 20;
+int difference = num1 - num2;
+Console.WriteLine("The difference between " + num1 +" and " + num2 + " is:" + difference);
