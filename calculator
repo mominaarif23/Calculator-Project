@@ -1,8 +1,35 @@
 Console.WriteLine("Momina Arif");
 Console.WriteLine("24-ST-024");
 
+ division
+//Code for Division:
+double num1 = 10;
+double num2 = 5;
+if (num2!= 0)
+{
+   double quotient = num1 / num2;
+   Console.WriteLine(The quotient is"+num1+ " divided by " +num2+ " is:" + quotient);
+}
+
+ multiplication
+// Code for multiplication:
+int num1 = 3;
+int num2 = 4;
+int product = num1 * num2;
+Console.WriteLine(" The Product of " +num1+ " and " +num2+ " is:" + product);
+
+ subtraction
+//code for subtraction:
+ int num1 = 50;
+int num2 = 20;
+int difference = num1 - num2;
+Console.WriteLine("The difference between " + num1 +" and " + num2 + " is:" + difference);
+
 // Code for Addition:
 int num1 = 10;
 int num2 = 20;
 int sum - num1 + num2;
 Console.WriteLinr("The sum of" "+ sum1+ " and "+ sum2+"  is: "+sum);
+ main
+ main
+ main
