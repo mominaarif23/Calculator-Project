@@ -33,4 +33,7 @@ Console.WriteLinr("The sum of" "+ sum1+ " and "+ sum2+"  is: "+sum);
  main
  main
  main
+ conflict-branch-2
+this is for conflict 2
 This Line is for conflict 1
+ main
